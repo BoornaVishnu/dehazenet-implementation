@@ -1,5 +1,16 @@
 # Dehazing for Outdoor Scenes in Automotive Applications
 
+[![GitHub Profile](https://img.shields.io/badge/GitHub-BoornaVishnu-blue?logo=github)](https://github.com/BoornaVishnu)
+[![Repository](https://img.shields.io/badge/Repo-dehazenet--implementation-blue?logo=github)](https://github.com/BoornaVishnu/dehazenet-implementation)
+
+This project implements a deep learning–based framework for **single-image and video dehazing** focused on **outdoor automotive environments**, such as dashcam and on-road camera footage. The objective is to improve visibility in adverse weather conditions (fog, haze, smog) while preserving scene structure critical for downstream perception tasks.
+
+The system is based on a **physics-inspired transmission estimation network (DehazeNet-style)** and supports inference on images, image batches, and MP4 videos.
+
+---
+
+# Dehazing for Outdoor Scenes in Automotive Applications
+
 This project implements a deep learning–based framework for **single-image and video dehazing** focused on **outdoor automotive environments**, such as dashcam and on-road camera footage. The objective is to improve visibility in adverse weather conditions (fog, haze, smog) while preserving scene structure critical for downstream perception tasks.
 
 The system is based on a **physics-inspired transmission estimation network (DehazeNet-style)** and supports inference on images, image batches, and MP4 videos.
