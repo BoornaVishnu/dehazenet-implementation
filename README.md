@@ -2,8 +2,7 @@
 
 This project implements a deep learning–based framework for **single-image and video dehazing** focused on **outdoor automotive environments**, such as dashcam and on-road camera footage. The objective is to improve visibility in adverse weather conditions (fog, haze, smog) while preserving scene structure critical for downstream perception tasks.
 
-🔗 **GitHub Repository:** https://github.com/BoornaVishnu/dehazenet-implementation  
-👤 **Author:** https://github.com/BoornaVishnu  
+🔗 **GitHub Repository:** https://github.com/BoornaVishnu/dehazenet-implementation   
 
 ---
 
